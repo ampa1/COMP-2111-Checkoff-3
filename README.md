@@ -1,13 +1,10 @@
 # COMP 2111 Checkoff 3 – Round-Robin CPU Scheduling
-
 ## Project Overview
-
 For my Operating Systems Scheduling exploration project, I chose to research Round-Robin CPU Scheduling. The goal of this project was to understand how operating systems share CPU time between multiple processes and why scheduling is important.
 
 I focused on how Round-Robin works, how it compares to First-Come, First-Served (FCFS), and how changing the time quantum affects performance.
 
 ## What Is Round-Robin Scheduling?
-
 Round-Robin is a CPU scheduling algorithm that gives each process a fixed amount of CPU time, called a **time quantum**.
 
 Processes wait in a ready queue and take turns using the CPU. If a process does not finish during its time quantum, it goes to the back of the queue and waits for another turn.
@@ -15,7 +12,6 @@ Processes wait in a ready queue and take turns using the CPU. If a process does 
 This helps prevent one CPU-bound process from keeping the CPU for too long.
 
 ## Example
-
 For my presentation, I used three processes:
 P1 (5ms)
 P2 (3ms)
