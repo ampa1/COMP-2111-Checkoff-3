@@ -35,6 +35,8 @@ A larger time quantum reduces the number of switches but can make other processe
 
 I also learned that Round-Robin focuses on fairness and responsiveness, but it does not always give the lowest average waiting time.
 
+
+
 ## AI Exploration
 
 I used ChatGPT to help me explore CPU scheduling and understand the concepts step by step.
@@ -49,6 +51,9 @@ Some of the questions I asked were:
 
 The explanations and examples helped me better understand the topic and prepare my presentation.
 
+##Code example
+
+I included two Python programs to show the difference between Round-Robin and First-Come, First-Served (FCFS) scheduling. Both use the same three processes from my presentation, so it's easier to compare how the CPU handles them. To run the programs, download the files, make sure Python 3 is installed, and open a terminal in the folder where they're saved. Run `python round_robin.py` or `python fcfs.py`. Each program prints the order the processes run in and how long they take. The examples helped me see how Round-Robin gives each process a turn instead of making it wait for the previous one to finish.
 
 ## References (GPT generated)
 
