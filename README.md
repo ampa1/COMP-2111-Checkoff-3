@@ -50,12 +50,12 @@ Some of the questions I asked were:
 The explanations and examples helped me better understand the topic and prepare my presentation.
 
 
-## References
+## References (GPT generated)
 
 - Silberschatz, Galvin, and Gagne, *Operating System Concepts*: CPU Scheduling
-- [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/): Scheduling chapters
 - [Python Documentation](https://docs.python.org/3/): Python reference for code examples
 - ChatGPT: Used for explanations, examples, finding hte above sources, formatting for this page, and exploring scheduling concepts
+- Link to conversation: https://chatgpt.com/share/6afcadd5-96f4-83e9-ab2f-7aeb37ddf97f
 
 ## Conclusion
 
